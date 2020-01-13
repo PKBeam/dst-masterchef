@@ -24,8 +24,8 @@ local function fn()
     end
     
     inst:AddComponent("finiteuses")
-    inst.components.finiteuses:SetMaxUses(20)
-    inst.components.finiteuses:SetUses(20)
+    inst.components.finiteuses:SetMaxUses(15)
+    inst.components.finiteuses:SetUses(15)
     inst.components.finiteuses:SetOnFinished(inst.Remove)
 
     inst:AddComponent("grinder")

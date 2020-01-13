@@ -14,5 +14,11 @@ forumthread = ""
 api_version = 10
 
 ---- Can specify a custom icon for this mod!
---icon_atlas = "modicon.xml"
---icon = "modicon.tex"
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
+
+-- Only compatible with DST
+dont_starve_compatible = false
+reign_of_giants_compatible = false
+shipwrecked_compatible = false
+dst_compatible = true
