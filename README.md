@@ -1,13 +1,28 @@
 # DST Masterchef
-A mod for Don't Starve Together that adds new food items and recipes.
+A mod for Don't Starve Together that adds new food items and recipes.  
 
-## Planned Features
+Masterchef focuses on expanding DST's culinary options, giving all food items a meaningful purpose (not just to be used as filler) while keeping recipes and foods balanced.
+
+## Features
 ### Mortar and Pestle
-Craft this at a Science Machine with rocks and marble, and use it up to 20 times.
-You can use it to grind down Birchnuts, Pine Cones, Twiggy Nuts, Potatoes and Corn into flour.
+*Recipe: Marble x3, Rocks x3*
+Usable up to 15 times. Science Machine required.  
+Grind down Birchnuts, Pine Cones, Twiggy Nuts, Potatoes and Corn into Flour.  
 
 ### Pineapples
-When you chop down a Pine Tree, there's a small chance you may find a pineapple. 
+When you chop down a (Lumpy) Evergreen tree, there's a chance that a Pineapple will drop.  
+
+Growth stage | Drop chance
+--- | --- | 
+Tall | 20% |
+Normal | 15% |
+Short | 10% |
+
 
 ### New crock pot recipes
-This mod focuses on adding a diverse range of recipes, giving filler items a unique purpose.
+
+Food | Recipe
+--- | --- | 
+Toast | Flour x3 |
+
+(More to come!)
